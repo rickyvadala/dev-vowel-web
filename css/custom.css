@@ -1,0 +1,14 @@
+ /*Home*/
+ 
+ .principles {
+     color: rgb(244, 250, 156) !important;
+ }
+ /*Team*/
+ 
+ ul.our-new-team li:first-child {
+     width: 25% !important;
+ }
+ 
+ ul.our-new-team li {
+     width: 25%;
+ }
