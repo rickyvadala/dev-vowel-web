@@ -1,159 +1,200 @@
-         /*Home*/
-         
-         .principles {
-             color: rgb(244, 250, 156) !important;
-         }
-         /*About us*/
-         
-         .img-width {
-             width: 50%;
-         }
-         
-         .img-width2 {
-             width: 70%;
-         }
-         
-         .mb-5,
-         .my-5 {
-             margin-bottom: 0rem !important;
-             line-height: 20px;
-         }
-         
-         .margin-about {
-             margin-bottom: 5px !important;
-         }
-         
-         .iq-list li i {
-             top: 4px;
-         }
-         
-         #iq-about {
-             padding-bottom: 90px;
-         }
-         /*Team*/
-         
-         ul.our-new-team li:first-child {
-             width: 25% !important;
-         }
-         
-         ul.our-new-team li {
-             width: 25%;
-         }
-         
-         #iq-team {
-             padding-top: 40px;
-             padding-bottom: 90px !important;
-             background-color: #0a46b52f;
-             box-shadow: rgb(0 0 0 / 15%) 0px 20px 90px 0px;
-             ;
-         }
-         /*Services*/
-         /* .sofbox-feature-circle .sofbox-img ul li .feature-info {
+                             /*Home*/
+                             
+                             .principles {
+                                 color: rgb(244, 250, 156) !important;
+                             }
+                             /*About us*/
+                             
+                             .img-width {
+                                 width: 50%;
+                             }
+                             
+                             .img-width2 {
+                                 width: 70%;
+                             }
+                             
+                             .mb-5,
+                             .my-5 {
+                                 margin-bottom: 0rem !important;
+                                 line-height: 20px;
+                             }
+                             
+                             .margin-about {
+                                 margin-bottom: 5px !important;
+                             }
+                             
+                             .iq-list li i {
+                                 top: 4px;
+                             }
+                             
+                             #iq-about {
+                                 padding-bottom: 90px;
+                             }
+                             /*Team*/
+                             
+                             ul.our-new-team li:first-child {
+                                 width: 25% !important;
+                             }
+                             
+                             ul.our-new-team li {
+                                 width: 25%;
+                             }
+                             
+                             #iq-team {
+                                 padding-top: 40px;
+                                 padding-bottom: 90px !important;
+                                 background-color: #0a46b52f;
+                                 box-shadow: rgb(0 0 0 / 15%) 0px 20px 90px 0px;
+                                 ;
+                             }
+                             /*Services*/
+                             /* .sofbox-feature-circle .sofbox-img ul li .feature-info {
              height: 160px;
              width: 160px;
          } */
-         
-         .sofbox-feature-circle .sofbox-img ul li:nth-child(6) {
-             left: 65%;
-             top: 40%;
-         }
-         
-         .home-six-bg {
-             background-image: url(../images/services-bg.png);
-         }
-         
-         .margin-services {
-             margin-bottom: 0px !important;
-         }
-         
-         .margin-services2 {
-             margin-bottom: 0px !important;
-         }
-         
-         #iq-feature {
-             padding-top: 90px;
-         }
-         /*Tecnologies*/
-         
-         .platform-position {
-             TEXT-ALIGN: center;
-             bottom: 50px;
-         }
-         
-         .iq-global {
-             background-image: url(../images/numbers.jpg) !important;
-         }
-         
-         .padding-bottom-tecno {
-             padding-bottom: 200px;
-         }
-         
-         #tecnologies {
-             padding-top: 0px;
-         }
-         /*Location Section*/
-         /*Partners*/
-         
-         #partners .container {
-             padding-bottom: 80px;
-         }
-         
-         .fancy-clients .col-lg-4.col-md-4.col-sm-12 {
-             padding: 15px;
-             text-align: center;
-         }
-         
-         .fancy-clients .col-lg-4.col-md-4.col-sm-12:nth-child(1),
-         .fancy-clients .col-lg-4.col-md-4.col-sm-12:nth-child(7),
-         .fancy-clients .col-lg-4.col-md-4.col-sm-12:nth-child(13) {
-             border-left: 1px solid rgba(2, 13, 30, 0.1);
-         }
-         
-         .fancy-clients .col-lg-4.col-md-4.col-sm-12 .clients-block img {
-             opacity: 0.4;
-         }
-         
-         .fancy-clients .col-lg-4.col-md-4.col-sm-12 .clients-block:hover img {
-             opacity: 1;
-         }
-         
-         .fancy-clients .col-lg-4.col-md-4.col-sm-12:nth-child(n+1) {
-             border-bottom: 1px solid rgba(2, 13, 30, 0.1);
-             border-right: 1px solid rgba(2, 13, 30, 0.1);
-         }
-         
-         @media(max-width:992px) {
-             .fancy-clients .col-lg-4.col-md-4.col-sm-12:nth-child(5),
-             .fancy-clients .col-lg-4.col-md-4.col-sm-12:nth-child(9) {
-                 border-left: 1px solid rgba(2, 13, 30, 0.1);
-             }
-         }
-         
-         @media(max-width:767px) {
-             .fancy-clients .col-lg-4.col-md-4.col-sm-12:nth-child(2),
-             .fancy-clients .col-lg-4.col-md-4.col-sm-12:nth-child(3),
-             .fancy-clients .col-lg-4.col-md-4.col-sm-12:nth-child(4),
-             .fancy-clients .col-lg-4.col-md-4.col-sm-12:nth-child(6),
-             .fancy-clients .col-lg-4.col-md-4.col-sm-12:nth-child(8),
-             .fancy-clients .col-lg-4.col-md-4.col-sm-12:nth-child(10),
-             .fancy-clients .col-lg-4.col-md-4.col-sm-12:nth-child(11),
-             .fancy-clients .col-lg-4.col-md-4.col-sm-12:nth-child(12),
-             .fancy-clients .col-lg-4.col-md-4.col-sm-12:nth-child(14),
-             .fancy-clients .col-lg-4.col-md-4.col-sm-12:nth-child(15),
-             .fancy-clients .col-lg-4.col-md-4.col-sm-12:nth-child(16),
-             .fancy-clients .col-lg-4.col-md-4.col-sm-12:nth-child(17),
-             .fancy-clients .col-lg-4.col-md-4.col-sm-12:nth-child(18) {
-                 border-left: 1px solid rgba(2, 13, 30, 0.1);
-             }
-         }
-         
-         @media (max-width: 1600px) {
-             .title-box {
-                 margin-bottom: 20px;
-             }
-         }
-         
-         #partners {
-             padding-top: 120px;
-             padding-bottom: 60px;
-         }
+                             
+                             .sofbox-feature-circle .sofbox-img ul li:nth-child(6) {
+                                 left: 65%;
+                                 top: 40%;
+                             }
+                             
+                             .home-six-bg {
+                                 background-image: url(../images/services-bg.png);
+                             }
+                             
+                             .margin-services {
+                                 margin-bottom: 0px !important;
+                             }
+                             
+                             .margin-services2 {
+                                 margin-bottom: 0px !important;
+                             }
+                             
+                             #iq-feature {
+                                 padding-top: 90px;
+                             }
+                             /*Tecnologies*/
+                             
+                             .platform-position {
+                                 TEXT-ALIGN: center;
+                                 bottom: 50px;
+                             }
+                             
+                             .iq-global {
+                                 background-image: url(../images/numbers.jpg) !important;
+                             }
+                             
+                             .padding-bottom-tecno {
+                                 padding-bottom: 200px;
+                             }
+                             
+                             #tecnologies {
+                                 padding-top: 0px;
+                                 padding-bottom: 0px;
+                             }
+                             
+                             .about-style .effect-circle {
+                                 width: 135px;
+                                 height: 135px;
+                             }
+                             
+                             .about-style .main-circle {
+                                 top: 38%;
+                                 left: 49%;
+                             }
+                             
+                             .about-style .dot-circle {
+                                 margin-bottom: -30px;
+                                 width: 140px;
+                             }
+                             
+                             .loader-dot {
+                                 right: -45%;
+                                 top: 36%;
+                             }
+                             
+                             .center-tecnologies {
+                                 margin-right: 0px !important;
+                             }
+                             
+                             .row {
+                                 margin-left: 0px;
+                             }
+                             
+                             @media (max-width:900px) {
+                                 .padding-bottom-tecno {
+                                     padding-bottom: 300px;
+                                 }
+                             }
+                             
+                             @media (max-width:778px) {
+                                 .padding-bottom-tecno {
+                                     padding-bottom: 0px;
+                                 }
+                             }
+                             /*Location Section*/
+                             /*Partners*/
+                             
+                             #partners .container {
+                                 padding-bottom: 80px;
+                             }
+                             
+                             .fancy-clients .col-lg-4.col-md-4.col-sm-12 {
+                                 padding: 15px;
+                                 text-align: center;
+                             }
+                             
+                             .fancy-clients .col-lg-4.col-md-4.col-sm-12:nth-child(1),
+                             .fancy-clients .col-lg-4.col-md-4.col-sm-12:nth-child(7),
+                             .fancy-clients .col-lg-4.col-md-4.col-sm-12:nth-child(13) {
+                                 border-left: 1px solid rgba(2, 13, 30, 0.1);
+                             }
+                             
+                             .fancy-clients .col-lg-4.col-md-4.col-sm-12 .clients-block img {
+                                 opacity: 0.4;
+                             }
+                             
+                             .fancy-clients .col-lg-4.col-md-4.col-sm-12 .clients-block:hover img {
+                                 opacity: 1;
+                             }
+                             
+                             .fancy-clients .col-lg-4.col-md-4.col-sm-12:nth-child(n+1) {
+                                 border-bottom: 1px solid rgba(2, 13, 30, 0.1);
+                                 border-right: 1px solid rgba(2, 13, 30, 0.1);
+                             }
+                             
+                             @media(max-width:992px) {
+                                 .fancy-clients .col-lg-4.col-md-4.col-sm-12:nth-child(5),
+                                 .fancy-clients .col-lg-4.col-md-4.col-sm-12:nth-child(9) {
+                                     border-left: 1px solid rgba(2, 13, 30, 0.1);
+                                 }
+                             }
+                             
+                             @media(max-width:767px) {
+                                 .fancy-clients .col-lg-4.col-md-4.col-sm-12:nth-child(2),
+                                 .fancy-clients .col-lg-4.col-md-4.col-sm-12:nth-child(3),
+                                 .fancy-clients .col-lg-4.col-md-4.col-sm-12:nth-child(4),
+                                 .fancy-clients .col-lg-4.col-md-4.col-sm-12:nth-child(6),
+                                 .fancy-clients .col-lg-4.col-md-4.col-sm-12:nth-child(8),
+                                 .fancy-clients .col-lg-4.col-md-4.col-sm-12:nth-child(10),
+                                 .fancy-clients .col-lg-4.col-md-4.col-sm-12:nth-child(11),
+                                 .fancy-clients .col-lg-4.col-md-4.col-sm-12:nth-child(12),
+                                 .fancy-clients .col-lg-4.col-md-4.col-sm-12:nth-child(14),
+                                 .fancy-clients .col-lg-4.col-md-4.col-sm-12:nth-child(15),
+                                 .fancy-clients .col-lg-4.col-md-4.col-sm-12:nth-child(16),
+                                 .fancy-clients .col-lg-4.col-md-4.col-sm-12:nth-child(17),
+                                 .fancy-clients .col-lg-4.col-md-4.col-sm-12:nth-child(18) {
+                                     border-left: 1px solid rgba(2, 13, 30, 0.1);
+                                 }
+                             }
+                             
+                             @media (max-width: 1600px) {
+                                 .title-box {
+                                     margin-bottom: 20px;
+                                 }
+                             }
+                             
+                             #partners {
+                                 padding-top: 120px;
+                                 padding-bottom: 60px;
+                             }
