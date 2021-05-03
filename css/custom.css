@@ -12,6 +12,24 @@
          .img-width2 {
              width: 70%;
          }
+         
+         .mb-5,
+         .my-5 {
+             margin-bottom: 0rem !important;
+             line-height: 20px;
+         }
+         
+         .margin-about {
+             margin-bottom: 5px !important;
+         }
+         
+         .iq-list li i {
+             top: 4px;
+         }
+         
+         #iq-about {
+             padding-bottom: 90px;
+         }
          /*Team*/
          
          ul.our-new-team li:first-child {
@@ -24,16 +42,28 @@
          
          #iq-team {
              padding-top: 40px;
+             padding-bottom: 90px !important;
+             background-color: #0a46b52f;
+             box-shadow: rgb(0 0 0 / 15%) 0px 20px 90px 0px;
+             ;
          }
          /*Services*/
-         
-         .sofbox-feature-circle .sofbox-img ul li .feature-info {
+         /* .sofbox-feature-circle .sofbox-img ul li .feature-info {
              height: 160px;
              width: 160px;
+         } */
+         
+         .sofbox-feature-circle .sofbox-img ul li:nth-child(6) {
+             left: 65%;
+             top: 40%;
          }
          
          .home-six-bg {
              background-image: url(../images/services-bg.png);
+         }
+         
+         .margin-services {
+             margin-bottom: 0px !important;
          }
          /*Tecnologies*/
          
@@ -48,6 +78,10 @@
          
          .padding-bottom-tecno {
              padding-bottom: 200px;
+         }
+         
+         #tecnologies {
+             padding-top: 0px;
          }
          /*Location Section*/
          /*Partners*/
@@ -109,4 +143,9 @@
              .title-box {
                  margin-bottom: 20px;
              }
+         }
+         
+         #partners {
+             padding-top: 0px;
+             padding-bottom: 0px;
          }
