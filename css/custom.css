@@ -111,16 +111,11 @@
              width: 160px;
          } */
 
-                            .sofbox-feature-circle .sofbox-img ul li:nth-child(6) {
-                                left: 65%;
-                                top: 40%;
-                            }
-
                             .home-six-bg {
                                 background-image: url(../images/services-bg.png);
                             }
 
-                            .margin-services {
+                            /* .margin-services {
                                 margin-bottom: 0px !important;
                             }
 
@@ -138,32 +133,10 @@
 
                             #iq-feature p {
                                 margin-bottom: 0px;
-                            }
+                            } */
 
-                            .sofbox-feature-circle .sofbox-img ul li:nth-child(1) {
-                                left: 0%;
-                                top: 50%;
-                            }
-
-                            .sofbox-feature-circle .sofbox-img ul li:nth-child(6) {
-                                left: 42%;
-                                top: 24%;
-                            }
-
-                            .sofbox-feature-circle .sofbox-img ul li:nth-child(4) {
-                                right: 15%;
-                                top: 68%;
-                            }
-
-                            .sofbox-feature-circle .sofbox-img ul li:nth-child(5) {
-                                left: 15%;
-                                bottom: 15%;
-                            }
-
-                            .sofbox-feature-circle .sofbox-img ul li:nth-child(3) {
-                                right: 5%;
-                                top: 28%;
-                            }
+                            .sofbox-feature-circle  .sofbox-img ul li:nth-child(6) { right: 40%; top: 25%;}
+                            .sofbox-feature-circle  .sofbox-img ul li:nth-child(7) { right: 20%; bottom: 10%;}
 
                             /*offices*/
 
