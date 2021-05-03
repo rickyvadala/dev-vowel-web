@@ -140,6 +140,31 @@
                                 margin-bottom: 0px;
                             }
 
+                            .sofbox-feature-circle .sofbox-img ul li:nth-child(1) {
+                                left: 0%;
+                                top: 50%;
+                            }
+
+                            .sofbox-feature-circle .sofbox-img ul li:nth-child(6) {
+                                left: 42%;
+                                top: 24%;
+                            }
+
+                            .sofbox-feature-circle .sofbox-img ul li:nth-child(4) {
+                                right: 15%;
+                                top: 68%;
+                            }
+
+                            .sofbox-feature-circle .sofbox-img ul li:nth-child(5) {
+                                left: 15%;
+                                bottom: 15%;
+                            }
+
+                            .sofbox-feature-circle .sofbox-img ul li:nth-child(3) {
+                                right: 5%;
+                                top: 28%;
+                            }
+
                             /*offices*/
 
                             #offices .container {
