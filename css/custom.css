@@ -65,6 +65,14 @@
          .margin-services {
              margin-bottom: 0px !important;
          }
+         
+         .margin-services2 {
+             margin-bottom: 0px !important;
+         }
+         
+         #iq-feature {
+             padding-top: 90px;
+         }
          /*Tecnologies*/
          
          .platform-position {
@@ -146,6 +154,6 @@
          }
          
          #partners {
-             padding-top: 0px;
-             padding-bottom: 0px;
+             padding-top: 120px;
+             padding-bottom: 60px;
          }
