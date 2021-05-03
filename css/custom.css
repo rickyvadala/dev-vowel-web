@@ -9,6 +9,12 @@
                                      display: none !important;
                                  }
                              }
+                             
+                             @media (max-width: 767px) {
+                                 .soft-factory {
+                                     padding-top: 100px !important;
+                                 }
+                             }
                              /*About us*/
                              
                              .img-width {
