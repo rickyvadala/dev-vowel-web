@@ -81,11 +81,15 @@
                              }
 
                              #iq-team p {
-                                 margin-bottom: 0px !important;
+                                 margin-bottom: 75px !important;
                              }
 
                              #iq-team .title-box {
                                  margin-bottom: 0px !important;
+                             }
+
+                             #iq-team h2 {
+                                 color: white;
                              }
 
                              /*Services*/
