@@ -3,6 +3,12 @@
                              .principles {
                                  color: rgb(244, 250, 156) !important;
                              }
+                             
+                             @media (max-width:1280px) {
+                                 .principles {
+                                     display: none !important;
+                                 }
+                             }
                              /*About us*/
                              
                              .img-width {
@@ -29,6 +35,19 @@
                              
                              #iq-about {
                                  padding-bottom: 90px;
+                             }
+                             
+                             .padding-efectiveness {
+                                 padding-bottom: 20px !important;
+                             }
+                             
+                             @media (max-width: 767px) {
+                                 .responsive-path {
+                                     display: none;
+                                 }
+                                 .img-fluid {
+                                     padding: 30px 0px;
+                                 }
                              }
                              /*Team*/
                              
