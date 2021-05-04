@@ -89,6 +89,16 @@
                                 width: 25%;
                             }
 
+                            @media (max-width: 590px) {
+                                ul.our-new-team li:first-child {
+                                    width: 50% !important;
+                                }
+
+                                ul.our-new-team li {
+                                    width: 50% !important;
+                                }
+                            }
+
                             #iq-team {
                                 padding-top: 0px;
                                 padding-bottom: 0px !important;
