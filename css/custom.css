@@ -229,7 +229,7 @@ ul.our-new-team li {
 }
 
 #lenguages {
-    padding: 110px !important;
+    padding: 0px !important;
 }
 
 #tecnologies-div {
@@ -241,6 +241,10 @@ ul.our-new-team li {
     margin-bottom: 20px;
 }
 
+.platform-position {
+    position: relative;
+    left: 0;
+}
 
 /*Ready*/
 
