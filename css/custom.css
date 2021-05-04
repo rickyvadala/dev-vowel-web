@@ -135,8 +135,15 @@
                                 margin-bottom: 0px;
                             } */
 
-                            .sofbox-feature-circle  .sofbox-img ul li:nth-child(6) { right: 40%; top: 25%;}
-                            .sofbox-feature-circle  .sofbox-img ul li:nth-child(7) { right: 20%; bottom: 10%;}
+                            .sofbox-feature-circle .sofbox-img ul li:nth-child(6) {
+                                right: 40%;
+                                top: 25%;
+                            }
+
+                            .sofbox-feature-circle .sofbox-img ul li:nth-child(7) {
+                                right: 20%;
+                                bottom: 10%;
+                            }
 
                             /*offices*/
 
