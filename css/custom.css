@@ -126,7 +126,7 @@ ul.our-new-team li {
     background-color: #377cfd;
     box-shadow: rgb(0 0 0 / 15%) 0px 20px 90px 0px;
     color: white;
-    background-image: url(../images/numbers.jpg) !important;
+    background-image: url(../images/about/numbers.jpg) !important;
     background-position: center !important;
     background-repeat: no-repeat !important;
     background-size: cover !important;
@@ -188,12 +188,12 @@ ul.our-new-team li {
 }
 
 .iq-global {
-    background-image: url(../images/numbers.jpg) !important;
+    background-image: url(../images/about/numbers.jpg) !important;
 }
 
 #tecnologies {
     padding-top: 120px;
-    padding bottom: 75px !important;
+    padding-bottom: 75px !important;
 }
 
 #tecnologies p {
