@@ -90,6 +90,25 @@
     #iq-about .img-fluid {
         padding: 30px 0px;
     }
+    .img-width,
+    .img-width2 {
+        display: none;
+    }
+    #about2 .row {
+        margin-top: 50px !important;
+    }
+}
+
+@media (max-width: 480px) {
+    #about2 .container {
+        padding: 50px !important;
+    }
+    #about2 .p {
+        font-size: 14px;
+    }
+    ul.iq-list {
+        margin-top: 15px;
+    }
 }
 
 #about2 .container {
