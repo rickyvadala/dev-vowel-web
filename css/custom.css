@@ -121,8 +121,8 @@ ul.our-new-team li {
 }
 
 #iq-team {
-    padding-top: 0px;
-    padding-bottom: 0px !important;
+    padding-top: 120px;
+    padding-bottom: 75px !important;
     background-color: #377cfd;
     box-shadow: rgb(0 0 0 / 15%) 0px 20px 90px 0px;
     color: white;
@@ -132,9 +132,10 @@ ul.our-new-team li {
     background-size: cover !important;
 }
 
-#iq-team .container {
+
+/* #iq-team .container {
     padding: 75px;
-}
+} */
 
 #iq-team p {
     margin-bottom: 75px !important;
@@ -168,12 +169,15 @@ ul.our-new-team li {
 
 /*offices*/
 
-#offices .container {
+
+/* #offices .container {
     padding: 75px;
-}
+} */
 
 #offices {
-    padding: 0px;
+    padding-top: 120px !important;
+    margin-top: -90px;
+    padding-bottom: 75px;
 }
 
 #offices .title-box.text-left {
@@ -246,6 +250,7 @@ ul.our-new-team li {
     left: 0;
 }
 
+
 /*Ready*/
 
 #ready {
@@ -260,7 +265,7 @@ ul.our-new-team li {
 /*clients*/
 
 #iq-blog {
-    padding: 75px;
+    padding-top: 120px;
 }
 
 #iq-blog p {
@@ -275,7 +280,7 @@ ul.our-new-team li {
 
 #partners {
     padding-top: 120px;
-    padding-bottom: 75px !important;
+    padding-bottom: 0px !important;
 }
 
 #partners p {
