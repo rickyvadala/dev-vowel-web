@@ -382,3 +382,10 @@ footer.iq-footer .button.sign-btn {
 .dot-circle {
   cursor: pointer;
 }
+footer .logo img {
+  height: 46px;
+}
+
+footer input, footer textarea {
+  margin: 8px 0 !important;
+}
