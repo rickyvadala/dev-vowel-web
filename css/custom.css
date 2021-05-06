@@ -179,7 +179,6 @@ ul.our-new-team li {
 
 #offices {
   padding-top: 120px !important;
-  margin-top: -90px;
   padding-bottom: 75px;
 }
 
@@ -251,7 +250,8 @@ ul.our-new-team li {
 
 #tecnologies-div {
   padding-bottom: 75px !important;
-  padding-top: 0px !important;
+  padding-top: 0 !important;
+  margin-top: -90px;
 }
 
 .title-box.text-center {
