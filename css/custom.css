@@ -433,13 +433,14 @@ footer textarea {
 }
 
 #iq-contact #sendmessage {
-    color: #942424;
-    border: 1px solid #942424;
+    color: var(--primary-color);
+    border: 1px solid var(--primary-color);
     display: none;
     text-align: center;
     padding: 15px;
     font-weight: 600;
-    margin-bottom: 15px;
+    margin-bottom: 12px;
+    margin-left: 15px;
   }
   
   #iq-contact #errormessage {
