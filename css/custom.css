@@ -205,7 +205,7 @@ ul.our-new-team li {
 }
 
 #offices .title-box.text-left {
-    margin-bottom: 75px;
+    margin-bottom: 60px;
 }
 
 @media (max-width: 767px) {
@@ -431,3 +431,29 @@ footer input,
 footer textarea {
     margin: 8px 0 !important;
 }
+
+#iq-contact #sendmessage {
+    color: #942424;
+    border: 1px solid #942424;
+    display: none;
+    text-align: center;
+    padding: 15px;
+    font-weight: 600;
+    margin-bottom: 15px;
+  }
+  
+  #iq-contact #errormessage {
+    color: red;
+    display: none;
+    border: 1px solid red;
+    text-align: center;
+    padding: 15px;
+    font-weight: 600;
+    margin-bottom: 15px;
+  }
+  
+  #iq-contact #sendmessage.show,
+  #iq-contact #errormessage.show,
+  #iq-contact .show {
+    display: block;
+  }

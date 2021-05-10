@@ -614,8 +614,8 @@ footer.footer-one.footer-shap .sofbox-subscribe .col-sm-12 , footer.footer-one.f
 footer.footer-one.footer-shap .footer-top{  padding-top: 200px; }
 footer.footer-one.footer-shap .container:after{ position: absolute; bottom: 0; height: 238px;left: 0; z-index: 0; width: 100%; content: ""; background: url(../images/home-2/footer.png)no-repeat;}
 footer.footer-one.footer-shap .container:before{ position: absolute; bottom: 0; height: 196px;right: 0; z-index: 0; width: 157px; opacity: 0.1; content: ""; background: url(../images/home-2/footer-two.png)no-repeat;}
-footer.footer-one.footer-shap:after { position: absolute; top: 0; height: 190px; z-index: 0; width: 100%; content: ""; background: url(../images/home-2/footer-bg.png)no-repeat; }
-footer.footer-one .sofbox-subscribe{position: relative;padding: 30px; background: #ffffff; margin-top: -200px;box-shadow: 0px 0px 45px 5px rgba(0, 0, 0, 0.04); border-radius: 4px;}
+footer.footer-one.footer-shap::before { position: absolute; top: 0; height: 190px; z-index: 0; width: 100%; content: ""; background: url(../images/home-2/footer-bg.png)no-repeat; }
+footer.footer-one .sofbox-subscribe{position: relative;padding: 30px; background: #ffffff; margin-top: -50px;box-shadow: 0px 0px 45px 5px rgba(0, 0, 0, 0.04); border-radius: 4px;}
 footer.footer-one .sofbox-subscribe:before { content: ""; position: absolute; bottom: -8px; width: 98%; z-index: 0; border-radius: 4px; height: 100%; background: #ffffff; box-shadow: 0px 20px 30px 0px rgba(0, 0, 0, 0.06); margin: 0 auto; left: 0 ;right: 0; opacity: 0.4;}
 footer.footer-one .sofbox-subscribe:after { content: ""; position: absolute; bottom: -16px; width: 96%; left: 0; margin: 0 auto; right: 0; z-index: 0; border-radius: 4px; height: 100%; background: #fff; box-shadow: 0px 20px 30px 0px rgba(0, 0, 0, 0.06); opacity: 0.4;}
 footer.footer-one ul.iq-contact li:last-child a span:before{content: "|" ; position: absolute; left: 0; }
@@ -1430,7 +1430,7 @@ ul.our-new-team .team-blog .team-social ul li a i { font-size: 18px; display: in
 ul.our-new-team .team-blog:before, ul.our-new-team .team-blog:hover:before, ul.our-new-team .team-blog:hover .team-description, ul.our-new-team .team-blog:hover .team-social, ul.our-new-team .team-blog .team-social { -webkit-transition: all 0.3s ease-out 0s; -moz-transition: all 0.3s ease-out 0s; -ms-transition: all 0.3s ease-out 0s; -o-transition: all 0.3s ease-out 0s; transition: all 0.3s ease-out 0s; }
 ul.our-new-team .team-blog:hover .team-description { bottom: 30%; opacity: 1; }
 ul.our-new-team .team-blog:hover .team-social { bottom: 6%; opacity: 1; }
-ul.our-new-team li:first-child .team-blog:hover  .team-description{bottom: 20%;}
+ul.our-new-team li:first-child .team-blog:hover  .team-description{bottom: 30%;}
 ul.our-new-team p { margin-bottom: 0; font-size: 14px; }
 ul.our-new-team .team-blog .team-images img { width: 100%; webkit-filter: grayscale(100%);
     filter: grayscale(100%);}
