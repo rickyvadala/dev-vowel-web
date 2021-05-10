@@ -8,7 +8,7 @@
 /***************** Configuration *****************/
 
   // Replace with your real receiving email address
-  $contact_email_to = "rickyvadala@gmail.com";
+  $contact_email_to = "info@devvowel.com";
 
   // Title prefixes
   $subject_title = "Asunto:";
