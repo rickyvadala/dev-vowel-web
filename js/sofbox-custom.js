@@ -484,7 +484,7 @@ Index Of Script
             });
 
             // scroll body to 0px on click
-            jQuery('#top').on('click', function() {
+            jQuery('.top').on('click', function() {
                 jQuery('top').tooltip('hide');
                 jQuery('body,html').animate({
                     scrollTop: 0
