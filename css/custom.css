@@ -139,6 +139,12 @@ ul.our-new-team li {
     }
 }
 
+@media (max-width: 1000px) {
+    .team-social {
+        display: none !important;
+    }
+}
+
 #iq-team {
     padding-top: 120px;
     padding-bottom: 75px !important;
@@ -156,7 +162,7 @@ ul.our-new-team li {
     padding: 75px;
 } */
 
-#iq-team p {
+#iq-team .subtitle-margin {
     margin-bottom: 75px !important;
 }
 
