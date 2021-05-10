@@ -11,3 +11,9 @@ function technologyClicked(tech){
         }
     })
 }
+
+$('.nav-link').on('click', function () {
+    console.log($(this))
+    $('.navbar-toggler')[0].click()
+    $('#menu-btn').removeClass('is-active')
+})
